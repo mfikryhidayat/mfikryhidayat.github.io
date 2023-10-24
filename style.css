@@ -60,3 +60,80 @@ body{
     text-transform: uppercase;
     border-bottom: 4px solid #02020200;
 }
+.badak{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px 25px;
+    width: 1200px;
+
+    background-color: rgba(0,0,0,.7);
+    box-shadow: 0 0 10px rgba(255,255,255,.3);
+}
+
+.badak h1{
+    text-align: center;
+    color: #f7f7f7;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 4px solid #2978ff00;
+
+}
+.badak label{
+    text-align: left;
+    color: #90caf9;
+}
+.badak form input{
+    width: calc(100% - 20px);
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #2979ff;
+    color: #fff;
+    font-size: 20px;
+}
+.badak form button{
+    width: 25%;
+    padding: 10px 0;
+    border: none;
+    background-color:#2979ff;
+    font-size: 18px;
+    color: #fcfcfc;
+    text-align: center;
+}
+.badak p{
+    text-align: left;
+    color: #f7f7f7;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 4px solid #02020200;
+}
+.badak img{
+    width: 9.7%;
+    
+}
+.badak audio{
+position:relative;
+width: 50.7%;
+
+}
+.badak a{
+    font-style: initial;
+    position:absolute;
+    color: #f7f7f7;
+    margin-bottom: 10%;
+    text-transform: uppercase;
+    border-bottom: 4px solid #2978ff00;
+
+}
+
+.badak label{
+    font-size: smaller;
+    font-style: initial;
+    text-align: right;
+    color: #f7f7f7;
+    margin-bottom: 10%;
+    text-transform: uppercase;
+    border-bottom: 4px solid #2978ff00;}
